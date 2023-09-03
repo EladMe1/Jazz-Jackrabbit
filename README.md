@@ -1,4 +1,4 @@
-# Jazz Jackrabbit - Adventure Game
+# Jazz Jackrabbit - Game
 
 ## Table of Contents
 1. [About](#about)
